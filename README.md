@@ -11,6 +11,7 @@ To address this, we transform light curves into images and use Convolutional Neu
 - CNN-based classification
 - Image transformation of light curves
 - Evaluation on a test dataset
+- Creating 2D data visualizations 
 
 ## Data Source
 - OGLE Variable Star Catalog
